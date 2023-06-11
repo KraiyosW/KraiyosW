@@ -9,9 +9,6 @@ I graduated from the Faculty of Engineering with a degree in Mechanical Engineer
 * 🌍  I'm based in Bangkok,Thailand
 * ✉️  You can contact me at [kraiyos.wanna@gmail.com](mailto:kraiyos.wanna@gmail.com)
 
-<a href="https://www.github.com/KraiyosW" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KraiyosW?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -56,3 +53,7 @@ src="https://img.shields.io/github/followers/KraiyosW?logo=github&style=for-the-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/KraiyosW/get-that-job" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraiyosW&repo=get-that-job&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/KraiyosW/GUINetwork" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraiyosW&repo=GUINetwork&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/KraiyosW/Mock-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KraiyosW&repo=Mock-project&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
