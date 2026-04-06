@@ -53,6 +53,6 @@ A real-world digitalization initiative designed for the factory floor to log, tr
 * 🌐 **Portfolio:** [kraiyos-dev.vercel.app](https://kraiyos-dev.vercel.app)
 * 💬 **Ask me about:** Manufacturing digitalization, transitioning from Mechanical Engineering to Software Dev, or the laws of Karma!
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KraiyosW&show_icons=true&theme=radium&hide_border=true" alt="Kraiyos's GitHub Stats" />
-</p>
+</div>
