@@ -96,8 +96,8 @@ Today, I build with **computer vision, data engineering, machine learning, LLM/R
   <tr>
     <td width="50%" valign="top">
       <h3>Thai Unseen</h3>
-      <p><strong>AI Product · Business Strategy · Full-Stack</strong></p>
-      <p>Designed a bilingual, multi-sided tourism business concept connecting traveler demand with hidden gems, local guides, community businesses, travel buddies, and transparent local transport.</p>
+      <p><strong>AI Product · Full-Stack · UX</strong></p>
+      <p>Designed a bilingual travel concept for discovering Thailand's hidden gems through AI-assisted routes, verified local guides, community connections, and transparent local transport.</p>
       <a href="https://thailand-tourism-mini-hackathon-tid.vercel.app">
         <img src="https://img.shields.io/badge/LIVE_DEMO-2563EB?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" />
       </a>
